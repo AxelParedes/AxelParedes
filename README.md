@@ -68,7 +68,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/AxelParedes/AxelParedes/output/snake.svg" alt="Snake animation" />
-
-###
