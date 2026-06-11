@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">I'm Computer Science student from Mexico<br><br>- 🔭 I’m currently studying<br>- 📚 I'm currently learning Clojure <br>- ⚡ In my free time I learn new Cloud Technologies</p>
+<p align="left">I'm Computer Science student from Mexico<br><br>- 🔭 I’m a Comptuter Science graduate <br>- 📚 I'm currently learning C# <br>- </p>
 
 ###
 
